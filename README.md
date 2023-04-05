@@ -20,9 +20,17 @@ several steps have been required, both during preprocessing and postprocessing. 
 <p align="center">
   <table>
   <tr>
-    <td><img src="Mary_orig.png"></td>
+    <td width="20%"><img src="Mary_orig.png"></td>
     <td><img src="marie_pipe.png"></td>
-    <td><img src="Mary_final.png"></td>
+    <td width="20%"><img src="Mary_final.png"></td>
   </tr>
   </table>
+  <em>Reification pipeline over the portrait of Mary Shelley by Richard Rothwell, c. 1831-1840.
+  </em>
 </p>
+From the input image on the left we automatically identify the face and extract a crop aligned accordingly to
+the training data of the diffusion model. The crop is 
+embedded in the latent space using our embedding network,
+and the latent encoding is passed as input to the reverse diffusion process. The generated image is further processed
+by a Super-resolution netwotk. Before reinserting it into
+the original portrait, the crop is color adjusted and alpha-smoothed around the borders.
