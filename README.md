@@ -55,7 +55,7 @@ More examples of reifications are given below.
 <p align="center">
   <table>
   <tr>
-    <td width="53%"><img src="Colombo_reifi.png"></td>
+    <td width="46.5%"><img src="Colombo_reifi.png"></td>
     <td><img src="goethe_reifi.png"></td>
   </tr>
   </table>
