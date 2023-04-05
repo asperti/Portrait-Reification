@@ -1,6 +1,8 @@
 # Portrait Reification
 ### Transforming a portrait into a real face with diffusion models ###
 
+Joint work with Gabriele Colasuonno and Antonio Guerra
+
 In this repo you may find an application for the transformation of a painter’s portrait into a real human face; we call this process **portrait reification**. 
 
 <p align="center">
