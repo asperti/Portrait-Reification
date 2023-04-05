@@ -51,3 +51,16 @@ More examples of reifications are given below.
   <em>Reification of the portrait of the girl with a pearl earring by Johannes Vermeer (1665) and of the  ``bohémienne'' - En été - of Auguste Renoir (1868)
   </em>
 </p>
+
+<p align="center">
+  <table>
+  <tr>
+    <td width="53%"><img src="colombo_reifi.png"></td>
+    <td><img src="goethe_reifi.png"></td>
+  </tr>
+  </table>
+</p>
+<p align="center">
+  <em>Reification of the portrait of the girl with a pearl earring by Johannes Vermeer (1665) and of the  ``bohémienne'' - En été - of Auguste Renoir (1868)
+  </em>
+</p>
