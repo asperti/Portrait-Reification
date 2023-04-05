@@ -48,6 +48,7 @@ More examples of reifications are given below.
   </table>
 </p>
 <p align="center">
-  <em>Reification pipeline over the portrait of Mary Shelley by Richard Rothwell, c. 1831-1840.
+  <em>Reification of the portrait of the girl with a pearl earring by Johannes Vermeer (1665) 
+  b) reification of the  ``bohémienne'' - En été - of Auguste Renoir (1868)
   </em>
 </p>
