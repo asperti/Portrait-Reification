@@ -14,7 +14,15 @@ trained to generate human faces, it will revert the embedding
 of the portrait into the most likely real approximation of the original subject. 
 
 
-In order to turn this simple
-idea into a stand-alone and fully functional application, 
-several steps have been required, both during preprocessing 
-and postprocessing. 
+In order to turn this simple idea into a stand-alone and fully functional application, 
+several steps have been required, both during preprocessing and postprocessing. The overall pipeline is described in the following picture.
+
+<p align="center">
+  <table>
+  <tr>
+    <td><img src="Mary_orig.png"></td>
+    <td><img src="marie_pipe.png"></td>
+    <td><img src="Mary_final.png"></td>
+  </tr>
+  </table>
+</p>
