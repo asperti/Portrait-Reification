@@ -1,10 +1,11 @@
 # Portrait Reification
-Transforming a portrait into a real face with diffusion models
+### Transforming a portrait into a real face with diffusion models ###
 
 In this repo you may find an application for the transformation of a painter’s portrait into a real human face; we call this process **portrait reification**. 
 
+
 The heart of the application is the embedding procedure for generative diffusion models recently
-introduced in \cite{asperti2022embedding}. Since the diffusion model was 
+introduced in [Image Embedding for Denoising Generative Models](https://arxiv.org/abs/2301.07485). Since the diffusion model was 
 trained to generate human faces, it will revert the embedding
 of the portrait into the most likely real approximation of the original subject. 
 
