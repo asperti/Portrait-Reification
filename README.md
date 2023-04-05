@@ -25,6 +25,8 @@ several steps have been required, both during preprocessing and postprocessing. 
     <td width="20%"><img src="Mary_final.png"></td>
   </tr>
   </table>
+</p>
+<p align="center">
   <em>Reification pipeline over the portrait of Mary Shelley by Richard Rothwell, c. 1831-1840.
   </em>
 </p>
@@ -34,3 +36,18 @@ embedded in the latent space using our embedding network,
 and the latent encoding is passed as input to the reverse diffusion process. The generated image is further processed
 by a Super-resolution netwotk. Before reinserting it into
 the original portrait, the crop is color adjusted and alpha-smoothed around the borders.
+
+More examples of reifications are given below.
+
+<p align="center">
+  <table>
+  <tr>
+    <td width="20%"><img src="Vermeer1.png"></td>
+    <td><img src="renoir_reifi.png"></td>
+  </tr>
+  </table>
+</p>
+<p align="center">
+  <em>Reification pipeline over the portrait of Mary Shelley by Richard Rothwell, c. 1831-1840.
+  </em>
+</p>
