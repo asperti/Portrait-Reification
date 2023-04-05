@@ -42,7 +42,7 @@ More examples of reifications are given below.
 <p align="center">
   <table>
   <tr>
-    <td width="20%"><img src="Vermeer1.png"></td>
+    <td width="53%"><img src="verneer1.png"></td>
     <td><img src="renoir_reifi.png"></td>
   </tr>
   </table>
