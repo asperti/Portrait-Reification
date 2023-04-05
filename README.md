@@ -3,7 +3,10 @@
 
 In this repo you may find an application for the transformation of a painter’s portrait into a real human face; we call this process **portrait reification**. 
 
-![Reification of the portrait of Marie Antoinette by Martin van Meytens (1767)](Maria_Antonietta.png)
+<p align="center">
+  <img alt="Reification of the portrait of Marie Antoinette by Martin van Meytens (1767)" src="Maria_Antonietta.png" />
+  <em>Reification of the portrait of Marie Antoinette by Martin van Meytens (1767)</em>
+</p>
 
 The heart of the application is the embedding procedure for generative diffusion models recently
 introduced in [Image Embedding for Denoising Generative Models](https://arxiv.org/abs/2301.07485). Since the diffusion model was 
